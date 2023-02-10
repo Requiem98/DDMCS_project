@@ -1,12 +1,6 @@
 from libraries import *
 import functions as f
 
-
-#dataframe = pd.read_pickle("Data/users_and_followers_data.pkl")
-#dataframe
-dataframe = pd.read_pickle("Data/users_tweets_data.pkl")
-dataframe
-
 if __name__ == '__main__':
     
     
