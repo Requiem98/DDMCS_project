@@ -26,7 +26,7 @@ def get_driver(cdriver = "normal"):
     return driver
 
 
-def tweeter_login(driver, username = "requiem982", password = "Ciccio98", cdriver="normal"):
+def tweeter_login(driver, username = "*****", password = "******", cdriver="normal"):
     
     
     url = 'https://twitter.com/i/flow/login'
